@@ -23,8 +23,7 @@
 <a href="https://twitter.com/prabhujot_cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabhujot_cse" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prabhujot deshwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhujot deshwal" height="30" width="40" /></a>
 <a href="https://instagram.com/prabhujot_deshwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabhujot_deshwal_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prabhujotdeshwa2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prabhujotdeshwa2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prabhujot_deshwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prabhujot_deshwal" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
